@@ -1,0 +1,17 @@
+{
+    "start_urls": {
+        "Islamabad": "https://www.zameen.com/Homes/Islamabad-3-1.html",
+        "Lahore": "https://www.zameen.com/Homes/Lahore-1-1.html",
+        "Karachi": "https://www.zameen.com/Homes/Karachi-2-1.html",
+        "Rawalpindi": "https://www.zameen.com/Homes/Rawalpindi-121-1.html"
+    },
+    "selectors": {
+        "card_link": "a._7ac2a55a::attr(href)",
+        "price": "span._2d97c992::text",
+        "area": "span._4c86e0c6::text",
+        "location": "div._39adcf70::text",
+        "property_type": "span._5c370213::text",
+        "bedrooms": "span._113886f7::text",
+        "bathrooms": "span._2718e8a3::text"
+    }
+}

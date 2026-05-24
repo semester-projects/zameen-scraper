@@ -1,0 +1,25 @@
+# ==============================================================================
+# Zameen.com Property Price Scraper and ML Pipeline - Project Requirements
+# ==============================================================================
+
+# --- Core Data Processing & Analysis ---
+numpy==2.3.5
+pandas==3.0.2
+
+# --- Web Scraping & Data Extraction ---
+Scrapy==2.15.2
+
+# --- Machine Learning & Modeling ---
+scikit-learn==1.8.0
+xgboost==3.2.0
+catboost==1.2.10
+
+# --- Visualization & Terminal Formatting ---
+rich==14.3.3
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# --- Jupyter Notebook Execution & Schema Operations ---
+nbformat==5.10.4
+nbconvert==7.17.0
+ipykernel>=6.0.0

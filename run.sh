@@ -1,0 +1,1 @@
+python main.py --all --limit 10 --raw-data-path assets/raw_data.csv --clean-data-path assets/cleaned_data.csv --model-dir assets/save_model
